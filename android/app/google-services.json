@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935676880603",
+    "project_id": "smart-student-academy",
+    "storage_bucket": "smart-student-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935676880603:android:1692cbac89f28eb4c44efe",
+        "android_client_info": {
+          "package_name": "com.proacademy.smart_student_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935676880603-v7pbn6abu4vjjmlvivnhpd87js5974pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proacademy.smart_student_academy",
+            "certificate_hash": "50fe30145c8747bb9ec09e37671f29790b3a18b7"
+          }
+        },
+        {
+          "client_id": "935676880603-hiuuntsfbq64q486rrv2jfta2tj9a8kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsW1_zv-CStLhqjedYKBSDgTnFDG-jTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935676880603-hiuuntsfbq64q486rrv2jfta2tj9a8kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
